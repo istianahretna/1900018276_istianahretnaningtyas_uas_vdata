@@ -7,7 +7,7 @@ import numpy as np
 # Streamlit page configuration 
 st.set_page_config(page_title="Dashboard", page_icon=":bar_chart:", layout="wide")
 
-st.title(":traffic_light: Penindakan Pelanggaran Lalu Lintas dan Angkutan Jalan Tahun 2021 Bulan Januari-Juli")
+st.title(":traffic_light: Penindakan Pelanggaran Lalu Lintas dan Angkutan Jalan Bulan Januari-Juli Tahun 2021")
 st.subheader("by : Istianah Retna Ningtyas Handayani - 1900018276 - UAS -VDATA - C")
 st.markdown("#")
 
